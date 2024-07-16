@@ -1,0 +1,6 @@
+@casino_llm_response_HostAddress = http://localhost:5169
+
+GET {{casino_llm_response_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
