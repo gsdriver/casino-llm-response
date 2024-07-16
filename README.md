@@ -41,6 +41,7 @@ The response for a successful call will be the following:
     timeElapsed: number, // The amount of internal processing time
     response: string, // The response from the AI prompt
 }
+```
 
 Example:
 
